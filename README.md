@@ -4,21 +4,24 @@ Why we did this project? We choose World Cup dataset on Kaggle because we are bo
 
 Our tech stack? We use pandas, seaborn, numpy, matplotlib，plotly modules in Python Jupyter Notebook to do our analysis. In this project, we found these modules very useful, flexible, and interesting.
 
-Interesting findings 1:
-
+### Interesting findings 1:
+![png]('/Users/xiangzhang/Desktop/Summer 2018/Data Viz/WorldCup-Analysis/WorldCup Analysis Visualization/Attendence By Year.png')
 The tournament has 16 teams at first, was expanded to 24 teams in 1982, and then to 32 in 1998. We can see that the audience increases as the number of teams increase. For example, there is a big increase in total attendence in 1982 compare the 1978, 1994 USA World Cup has the highest total attendence overall，the probable reason is that the stadiums in the USA have higher capacities. 2014 World Cup has the second highest total attendence.
-Interesting findings 2:
+
+### Interesting findings 2:
 
 There are 79 country teams have ever played in World Cup.
 Brazil attends most with 21 times.
 Europe has the most country teams(34) ever played in World Cup, Africa is the second. This data implies that in Europe and Africa, most country teams are competent，the competency pattern changed very often.
 Brazil and Germany played most with 113 games, which implies they usually qualify from group games and play a lot in playoff games. So it's a strong indicator of soccer strength.
-Interesting findings 3:
+
+### Interesting findings 3:
 
 Europe has most teams and also most referees.
 Africa, Asia & Oceania and South America have second most teams.
 South America and Asia & Oceania has more referees than Africa. The difference might be related to high level professional leagues.
-Interesting findings 4: jpg
+
+### Interesting findings 4:
 
 If your country team is in home position, you are more likely to win when the referee comes from your continent, and your opponent does not.
 If your country team is in away position, it's best have a continential neutral referee.Otherwise it's better to have a referee comes from your continent.
