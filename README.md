@@ -10,20 +10,14 @@ The tournament has 16 teams at first, was expanded to 24 teams in 1982, and then
 
 ### Interesting findings 2:
 ![map attendence](https://user-images.githubusercontent.com/32447999/43353541-f8896eb2-91ef-11e8-9eb6-0361763c1d56.png)
-![team appearence](https://user-images.githubusercontent.com/32447999/43353578-7f4d8d2a-91f0-11e8-94f3-407829698def.png)
 There are 79 country teams have ever played in World Cup.
 Brazil attends most with 21 times.
-
-![continental appearence](https://user-images.githubusercontent.com/32447999/43353540-f549c5a8-91ef-11e8-9be3-37f01b5e2885.png)
 Europe has the most country teams(34) ever played in World Cup, Africa is the second. This data implies that in Europe and Africa, most country teams are competent，the competency pattern changed very often.
 
 ![number of matches by team](https://user-images.githubusercontent.com/32447999/43353557-291bc78c-91f0-11e8-8524-0aebfb3d53d8.png)
 Brazil and Germany played most with 113 games, which implies they usually qualify from group games and play a lot in playoff games. So it's a strong indicator of soccer strength.
 
 ### Interesting findings 3:
-
-![continental allocation](https://user-images.githubusercontent.com/32447999/43353576-7931ee04-91f0-11e8-9941-2a3515977ac5.png)
-![referee appearence](https://user-images.githubusercontent.com/32447999/43353579-8488c296-91f0-11e8-923d-3a68b19bd6b6.png)
 Europe has most teams and also most referees.
 Africa, Asia & Oceania and South America have second most teams.
 South America and Asia & Oceania has more referees than Africa. The difference might be related to high level professional leagues.
