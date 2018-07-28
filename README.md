@@ -29,6 +29,5 @@ If your country team is in away position, it's best have a continential neutral 
 
 Link to our dataset:https://github.com/xzhang0529/WorldCup-Analysis/tree/master/Dataset
 
-Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/WorldCup-Analysis/blob/master/WorldCup%20Analysis%20Visualization%20Final.ipynb
-
+Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/WorldCup-Analysis/blob/master/World%20Cup%20Analysis%20Visualization%20Final.ipynb
 
