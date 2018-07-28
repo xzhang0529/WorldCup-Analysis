@@ -15,7 +15,7 @@ Brazil attends most with 21 times.
 Europe has the most country teams(34) ever played in World Cup, Africa is the second. This data implies that in Europe and Africa, most country teams are competent，the competency pattern changed very often.
 
 ![number of matches by team](https://user-images.githubusercontent.com/32447999/43353557-291bc78c-91f0-11e8-8524-0aebfb3d53d8.png)
-Brazil and Germany played most with 113 games, which implies they usually qualify from group games and play a lot in playoff games. So it's a strong indicator of soccer strength.
+Brazil and Germany played most with 113 games, which implies they usually qualify from group stage and advance to the knockout stage games. So it's a strong indicator of soccer strength.
 
 ### Interesting findings 3:
 Europe has most teams and also most referees.
