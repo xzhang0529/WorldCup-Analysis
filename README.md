@@ -2,7 +2,7 @@
 
 Why we did this project? We choose World Cup dataset on Kaggle because we are both soccer fans. Also, we just went through an exciting 2018 world cup in Russia. So we choose this theme to do some analysis.
 
-Our tech stack? We use pandas, seaborn, numpy, matplotlib，plotly modules in Python Jupyter Notebook to do our analysis. In this project, we found these modules very useful, flexible, and interesting.
+Our tech stack? We use pandas, seaborn, numpy, matplotlib，plotly modules in Python Jupyter Notebook to do our analysis. In this project, we found these modules very useful, flexible, and interesting. 
 
 ### Interesting findings 1:
 ![attendence by year](https://user-images.githubusercontent.com/32447999/43353521-8d7784f6-91ef-11e8-94c9-e1c64d82f9c5.png)
