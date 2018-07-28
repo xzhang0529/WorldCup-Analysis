@@ -5,7 +5,7 @@ Why we did this project? We choose World Cup dataset on Kaggle because we are bo
 Our tech stack? We use pandas, seaborn, numpy, matplotlib，plotly modules in Python Jupyter Notebook to do our analysis. In this project, we found these modules very useful, flexible, and interesting.
 
 ### Interesting findings 1:
-![png]('/Users/xiangzhang/Desktop/Summer 2018/Data Viz/WorldCup-Analysis/WorldCup Analysis Visualization/Attendence By Year.png')
+![attendence by year](https://user-images.githubusercontent.com/32447999/43353521-8d7784f6-91ef-11e8-94c9-e1c64d82f9c5.png)
 The tournament has 16 teams at first, was expanded to 24 teams in 1982, and then to 32 in 1998. We can see that the audience increases as the number of teams increase. For example, there is a big increase in total attendence in 1982 compare the 1978, 1994 USA World Cup has the highest total attendence overall，the probable reason is that the stadiums in the USA have higher capacities. 2014 World Cup has the second highest total attendence.
 
 ### Interesting findings 2:
