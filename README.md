@@ -10,6 +10,7 @@ The tournament has 16 teams at first, was expanded to 24 teams in 1982, and then
 
 ### Interesting findings 2:
 ![map attendence](https://user-images.githubusercontent.com/32447999/43353541-f8896eb2-91ef-11e8-9eb6-0361763c1d56.png)
+![team appearence](https://user-images.githubusercontent.com/32447999/43353578-7f4d8d2a-91f0-11e8-94f3-407829698def.png)
 There are 79 country teams have ever played in World Cup.
 Brazil attends most with 21 times.
 
@@ -21,12 +22,14 @@ Brazil and Germany played most with 113 games, which implies they usually qualif
 
 ### Interesting findings 3:
 
+![continental allocation](https://user-images.githubusercontent.com/32447999/43353576-7931ee04-91f0-11e8-9941-2a3515977ac5.png)
+![referee appearence](https://user-images.githubusercontent.com/32447999/43353579-8488c296-91f0-11e8-923d-3a68b19bd6b6.png)
 Europe has most teams and also most referees.
 Africa, Asia & Oceania and South America have second most teams.
 South America and Asia & Oceania has more referees than Africa. The difference might be related to high level professional leagues.
 
 ### Interesting findings 4:
-
+![game results and referee](https://user-images.githubusercontent.com/32447999/43353581-8728efee-91f0-11e8-9a26-31d9b0ec5223.png)
 If your country team is in home position, you are more likely to win when the referee comes from your continent, and your opponent does not.
 If your country team is in away position, it's best have a continential neutral referee.Otherwise it's better to have a referee comes from your continent.
 
